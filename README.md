@@ -33,6 +33,14 @@ The table can hold up to 8 gifts at a time, and it can be powered with a generat
 ### THE BOX
 The box is the base of the rotating turn table. All files that need to be cut can be found in the [Laser-Cutting-Files](https://github.com/katelynprovost/4180-Final-Project-Gifting-Table/tree/main/Laser-Cutting-Files) folder. 
 
+#### Required Parts
+- (x6) 1/8" - 12x12" Plywood Sheets
+- (x1) 1/8" - 12x12" Acrylic Sheet
+- (x4) M3 Screws
+- (x4) M3 Nuts
+- Wood glue
+
+#### Illustrator Files
 Here are a description of the holes in each Illustrator file:
 
 **Box_Three_Sides.ai**
@@ -50,6 +58,30 @@ Here are a description of the holes in each Illustrator file:
 **Box_Top.ai**
 1. (x1 circle) Large hole to next DC motor
 2. (x4 circles) Through holes to secure DC motor to top of box
+
+### THE TURN TABLE
+The turn table is the part of this device that holds the gift and rotates. All files that need to be cut can be found in the [Laser-Cutting-Files](https://github.com/katelynprovost/4180-Final-Project-Gifting-Table/tree/main/Laser-Cutting-Files) folder. 
+
+#### Required Parts
+- (x1) 3/16" - 24x24" Plywood Sheet
+- (x3) 1/8" - 12x12" Plywood Sheets
+- (x4) 1/2" - 1.5x1.5" Wood blocks 
+- (x4) 3/4" Wooden balls (or any material)
+- (x1) 3/4" - 1x1.75" Aluminum Block
+- (x1) M4 - 20mm Screw (Set screw for motor)
+- (x4) M5 - 25mm Screws (Secure aluminum block to table top)
+- Wood Glue
+
+#### Illustrator Files
+**Table_Bottom.ai**
+1. (rectangles) Slots for securing dividers
+2. (x4 circles) Through holes to secure aluminum block
+
+**Table_Dividers.ai**
+1. No holes
+
+#### Aluminum Block
+CHANG PUT INFORMATION HERE
 
 ## DEMO VIDEOS
 ### 1 MINUTE EXPLANATION
