@@ -27,6 +27,14 @@ The table can hold up to 8 gifts at a time, and it can be powered with a generat
 - (x2) Breadboards 
 
 ### WIRING DIAGRAM
+#### Motor Driver
+![image (4)](https://user-images.githubusercontent.com/57039762/206571892-28a6c287-2fe1-4890-81dc-837b262cc285.png)
+
+#### Mbed
+![image (5)](https://user-images.githubusercontent.com/57039762/206571933-dc31d99f-980a-413e-8704-4251c6981424.png)
+
+#### Power Supply
+![image (3)](https://user-images.githubusercontent.com/57039762/206571819-1b1d2bf7-4224-4daa-bf74-560b9a5bc337.png)
 
 
 ## MECHANICAL SUBSYSTEM
