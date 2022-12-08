@@ -93,6 +93,7 @@ The aluminum block was created with a drill press by creating 5 holes on the fro
 ![aluminum block Front View](https://user-images.githubusercontent.com/35545192/206573625-7c2fbf88-4982-4bb1-8167-58b02b9c62cf.png)
 
 From there, from the top side, I then created a hole going to the center hold where the motor shaft would go to using a 5/32" drill bit, and then used a tap and die set to tap on a M4 threading into the hole.
+
 ![aluminum block Top View](https://user-images.githubusercontent.com/35545192/206574170-4f44651b-ce1f-4f27-8601-a1758cc76914.png)
 
 ## DEMO VIDEOS
