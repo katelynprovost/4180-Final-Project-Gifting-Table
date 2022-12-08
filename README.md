@@ -1,9 +1,16 @@
 # 4180 FINAL PROJECT: THE GIFTING TABLE
 The following repository contains the parts list, code, and set up instructions for creating your very own Gifting Table!
 
+**Contributors:** Yu Chang (@yuchang2) & Katelyn Provost (@katelynprovost)
 
 ## PROJECT IDEA
+This project is a small gift exchange table made to be used at festivals and small events where gifting is a core value. The goal of this is to allow people to exchange small items (such as trinkets, mugs, jewelry, etc.) similar to a [Little Free Library](https://littlefreelibrary.org/). 
 
+> Take a gift. Leave a gift. 
+
+Our exchange table has interactive LEDs, sensors, and turntable to provide an engaging experience for the user. The table spins for a randomized amount of time so you never know which gift you will get--will it be a happy surprise? ,':) 
+
+The table can be powered with a generator for use at events where electricity may not be available. 
 
 ## ELECTRONICS SUBSYSTEM
 ### HARDWARE REQUIRED
@@ -23,6 +30,17 @@ The following repository contains the parts list, code, and set up instructions 
 
 
 ## MECHANICAL COMPONENTS
-All components of this project were laser 
+All components of this project were l
+
+
 
 ## DEMO VIDEOS
+### 1 MINUTE EXPLANATION
+
+https://user-images.githubusercontent.com/57039762/206563006-d1e433b8-86a9-482a-a3b2-f2434675120a.mp4
+
+### SHORT DEMO 
+To use, first place your gift you're giving away in an empty slot. Then wave your hand in between the IR Sensors to spin the table.
+
+https://user-images.githubusercontent.com/57039762/206561998-83649456-30dc-48b3-a93e-b3a1992a9514.mp4
+
