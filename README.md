@@ -53,7 +53,7 @@ Here are a description of the holes in each Illustrator file:
 
 **Box_Three_Sides.ai**
 1. Top: (rectangle) Mbed USB cable, (circle #1) barrel jack connector #1, (circle #2) barrel jack connector #2
-2. Middle: no holes, side piece
+2. Middle: (x2 circles) Through holes to feed IR sensor & uLCD wires
 3. Bottom: no holes, side piece
 
 **Box_Last_Side.ai**
