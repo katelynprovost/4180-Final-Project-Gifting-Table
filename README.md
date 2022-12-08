@@ -10,7 +10,7 @@ This project is a small gift exchange table made to be used at festivals and sma
 
 Our exchange table has interactive LEDs, sensors, and turntable to provide an engaging experience for the user. The table spins for a randomized amount of time so you never know which gift you will get--will it be a happy surprise? ,':) 
 
-The table can be powered with a generator for use at events where electricity may not be available. 
+The table can hold up to 8 gifts at a time, and it can be powered with a generator for use at events where electricity may not be available. 
 
 ## ELECTRONICS SUBSYSTEM
 ### HARDWARE REQUIRED
@@ -30,9 +30,26 @@ The table can be powered with a generator for use at events where electricity ma
 
 
 ## MECHANICAL COMPONENTS
-All components of this project were l
+### THE BOX
+The box is the base of the rotating turn table. All files that need to be cut can be found in the [Laser-Cutting-Files](https://github.com/katelynprovost/4180-Final-Project-Gifting-Table/tree/main/Laser-Cutting-Files) folder. 
 
+Here are a description of the holes in each Illustrator file:
 
+**Box_Three_Sides.ai**
+1. Top: (rectangle) Mbed USB cable, (circle #1) barrel jack connector #1, (circle #2) barrel jack connector #2
+2. Middle: no holes, side piece
+3. Bottom: no holes, side piece
+
+**Box_Last_Side.ai**
+1. (rectangle) Opening to access breadboards
+2. (x4 circles) Through holes to screw acrylic cover on (optional)
+
+**Box_Bottom.ai**
+1. No holes, bottom of box
+
+**Box_Top.ai**
+1. (x1 circle) Large hole to next DC motor
+2. (x4 circles) Through holes to secure DC motor to top of box
 
 ## DEMO VIDEOS
 ### 1 MINUTE EXPLANATION
