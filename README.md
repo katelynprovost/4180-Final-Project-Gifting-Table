@@ -33,7 +33,7 @@ The table can hold up to 8 gifts at a time, and it can be powered with a generat
 #### Mbed
 ![image (5)](https://user-images.githubusercontent.com/57039762/206571933-dc31d99f-980a-413e-8704-4251c6981424.png)
 
-#### Power Supply
+#### Power Railings
 ![image (3)](https://user-images.githubusercontent.com/57039762/206571819-1b1d2bf7-4224-4daa-bf74-560b9a5bc337.png)
 
 
@@ -89,7 +89,11 @@ The turn table is the part of this device that holds the gift and rotates. All f
 1. No holes
 
 #### Aluminum Block
-CHANG PUT INFORMATION HERE
+The aluminum block was created with a drill press by creating 5 holes on the front side using a 1/4" drill bit.
+![aluminum block Front View](https://user-images.githubusercontent.com/35545192/206573625-7c2fbf88-4982-4bb1-8167-58b02b9c62cf.png)
+
+From there, from the top side, I then created a hole going to the center hold where the motor shaft would go to using a 5/32" drill bit, and then used a tap and die set to tap on a M4 threading into the hole.
+![aluminum block Top View](https://user-images.githubusercontent.com/35545192/206574170-4f44651b-ce1f-4f27-8601-a1758cc76914.png)
 
 ## DEMO VIDEOS
 ### 1 MINUTE EXPLANATION
