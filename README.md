@@ -29,7 +29,7 @@ The table can hold up to 8 gifts at a time, and it can be powered with a generat
 ### WIRING DIAGRAM
 
 
-## MECHANICAL COMPONENTS
+## MECHANICAL SUBSYSTEM
 ### THE BOX
 The box is the base of the rotating turn table. All files that need to be cut can be found in the [Laser-Cutting-Files](https://github.com/katelynprovost/4180-Final-Project-Gifting-Table/tree/main/Laser-Cutting-Files) folder. 
 
