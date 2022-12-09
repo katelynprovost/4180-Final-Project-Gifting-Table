@@ -107,6 +107,9 @@ To use, first place your gift you're giving away in an empty slot. Then wave you
 https://user-images.githubusercontent.com/57039762/206561998-83649456-30dc-48b3-a93e-b3a1992a9514.mp4
 
 ## FINAL PRODUCT PHOTOS
+![IMG_9409](https://user-images.githubusercontent.com/35545192/206773687-f66dca78-9bc5-435e-96e6-23d3ab1ac4d0.jpg)
+![IMG_0175](https://user-images.githubusercontent.com/35545192/206774405-af2a7573-d269-4eb2-b5ad-6ab92b2a64b0.jpg)
+![IMG_0176](https://user-images.githubusercontent.com/35545192/206774409-d718ab4e-088d-4948-b5d4-6f5dc1caca9d.jpg)
 ![IMG_9410](https://user-images.githubusercontent.com/35545192/206773662-3492726c-1aa5-45b0-866d-c131ed86582e.jpg)
 ![IMG_0168](https://user-images.githubusercontent.com/35545192/206773665-591f966b-3090-4b2f-b0a5-847c2a55f912.jpg)
 ![IMG_0169](https://user-images.githubusercontent.com/35545192/206773670-a0dd5b34-d5c0-4131-8a65-ef131d33cbaf.jpg)
@@ -114,8 +117,6 @@ https://user-images.githubusercontent.com/57039762/206561998-83649456-30dc-48b3-
 ![IMG_0172](https://user-images.githubusercontent.com/35545192/206773675-ddabf124-06d6-4550-9314-315c81745174.jpg)
 ![IMG_0173](https://user-images.githubusercontent.com/35545192/206773678-18bc955e-1a52-439b-b968-821745b0cd3c.jpg)
 ![IMG_0174](https://user-images.githubusercontent.com/35545192/206773682-03cebf8e-d1f1-421e-9156-fb2b8997e73f.jpg)
-![IMG_9409](https://user-images.githubusercontent.com/35545192/206773687-f66dca78-9bc5-435e-96e6-23d3ab1ac4d0.jpg)
-![IMG_0175](https://user-images.githubusercontent.com/35545192/206774405-af2a7573-d269-4eb2-b5ad-6ab92b2a64b0.jpg)
-![IMG_0176](https://user-images.githubusercontent.com/35545192/206774409-d718ab4e-088d-4948-b5d4-6f5dc1caca9d.jpg)
+
 
 
